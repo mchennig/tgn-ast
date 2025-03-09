@@ -1,6 +1,12 @@
 # Leveraging Temporal Graphs for Enhancing Transformer-based Predictive Process Monitoring 
 
-This repository contains the implementation of the TGN-AST hybrid model for predictive process monitoring as described in our paper.
+<p align="center">
+  <img src="https://github.com/mchennig/tgn-ast/blob/master/tgn-ast.png" height="180"/>
+  <br><br>
+  <b>Figure 1.</b> Illustration of the TGN-AST model.
+</p>
+
+This repository contains the implementation of the TGN-AST hybrid model for the predictive process monitoring of remaining times, next activities and next timestamps as described in our paper "Leveraging Temporal Graphs for Enhancing Transformer-based Predictive Process Monitoring". Additionally, all preprocessing and evaluation steps as well as benchmark model developments are included. 
 
 <details>
   <summary>Abstract</summary>
