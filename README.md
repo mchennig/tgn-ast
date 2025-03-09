@@ -1,7 +1,7 @@
 # Leveraging Temporal Graphs for Enhancing Transformer-based Predictive Process Monitoring 
 
 <p align="center">
-  <img src="https://github.com/mchennig/tgn-ast/blob/master/tgn-ast.png" height="180"/>
+  <img src="https://github.com/mchennig/tgn-ast/blob/tgn-ast.png" height="180"/>
   <br><br>
   <b>Figure 1.</b> Illustration of the TGN-AST model.
 </p>
